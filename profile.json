@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "login": "pb9e",
+  "seed": "#040806",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "stack",
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "Hi im ",
+    "name": "pb9e",
+    "subtitle": "",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "heaven"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "favorite",
+        "label": "Hi well yea this is awkward but i hope things are going great for you also same as me so  :"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": []
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "website",
+      "2hsrx",
+      "eXoditeLinux"
+    ],
+    "overrides": {
+      "website": {
+        "text": "das webiste"
+      },
+      "2hsrx": {
+        "text": "wallah ick"
+      },
+      "eXoditeLinux": {
+        "text": "blay"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
